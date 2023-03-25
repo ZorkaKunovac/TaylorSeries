@@ -1,2 +1,4 @@
 # TaylorSeries
-Assembly Taylor Series and two examples of calculating factoriel
+Assembly project: Taylor Series and two examples of calculating factoriel
+
+Embedded and RT systems
